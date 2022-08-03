@@ -1,0 +1,15 @@
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\RichPresenceClient.exe
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\RichPresenceClient.deps.json
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\RichPresenceClient.runtimeconfig.json
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\RichPresenceClient.dll
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\ref\RichPresenceClient.dll
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\bin\Debug\net6.0\RichPresenceClient.pdb
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.csproj.AssemblyReference.cache
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.AssemblyInfoInputs.cache
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.AssemblyInfo.cs
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.csproj.CoreCompileInputs.cache
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.dll
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\ref\RichPresenceClient.dll
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.pdb
+C:\Users\Tommy31\Desktop\RichPresenceClient\Rich-Presence-Client-Csharp\RichPresenceClient\obj\Debug\net6.0\RichPresenceClient.genruntimeconfig.cache
